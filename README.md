@@ -4,7 +4,7 @@ cientista de dados 🖥️
 
 
 [![Instagram](https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)](https://www.instagram.com/oficialp20?utm_source=qr&igsh=d3gzMzJkeGl2bHpq)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-eduardo-93612b189)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipee20)
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeeduardor&show_icons=true&theme=cobalt)
 
